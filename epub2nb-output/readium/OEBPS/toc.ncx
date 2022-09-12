@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Vědomí a svědomí Zena Cosiniho</text>
+  </docTitle>
+  <docAuthor>
+    <text>Italo Svevo</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/vedomi_a_svedomi_zena_cosiniho_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Úvod</text>
+      </navLabel>
+      <content src="Text/vedomi_a_svedomi_zena_cosiniho_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Kouření</text>
+      </navLabel>
+      <content src="Text/vedomi_a_svedomi_zena_cosiniho_008.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Otcova smrt</text>
+      </navLabel>
+      <content src="Text/vedomi_a_svedomi_zena_cosiniho_009.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Historie mého manželství</text>
+      </navLabel>
+      <content src="Text/vedomi_a_svedomi_zena_cosiniho_010.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Manželka a milenka</text>
+      </navLabel>
+      <content src="Text/vedomi_a_svedomi_zena_cosiniho_011.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Historie jedné obchodní společnosti</text>
+      </navLabel>
+      <content src="Text/vedomi_a_svedomi_zena_cosiniho_012.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Psychoanalýza</text>
+      </navLabel>
+      <content src="Text/vedomi_a_svedomi_zena_cosiniho_013.xhtml#_idParaDest-8"/>
+      <navPoint id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>3. května 1915</text>
+        </navLabel>
+        <content src="Text/vedomi_a_svedomi_zena_cosiniho_013.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>15. května 1915</text>
+        </navLabel>
+        <content src="Text/vedomi_a_svedomi_zena_cosiniho_013.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>26. června 1915</text>
+        </navLabel>
+        <content src="Text/vedomi_a_svedomi_zena_cosiniho_013.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>24. března 1916</text>
+        </navLabel>
+        <content src="Text/vedomi_a_svedomi_zena_cosiniho_013.xhtml#_idParaDest-12"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
