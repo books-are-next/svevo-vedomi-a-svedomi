@@ -1293,6 +1293,6 @@ Všimla si toho, ale to jsem se dozvěděl, až když za několik měsíců odj�
 
 * * *
 
-_[2](./resources/undefined) Láska na první pohled. _Pozn. red.__
+[2](./resources/undefined) Láska na první pohled. _Pozn. red._
 
 </section>

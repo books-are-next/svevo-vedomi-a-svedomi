@@ -1376,8 +1376,8 @@ V posteli jsem ani nezasténal, naopak jsem předstíral pravidelné oddechová
 
 * * *
 
-_[3](./resources/undefined) Pokaždé. _Pozn. red.__
+[3](./resources/undefined) Pokaždé. _Pozn. red._
 
-_[4](./resources/undefined) Peníze („tvrďáky“). _Pozn. red.__
+[4](./resources/undefined) Peníze („tvrďáky“). _Pozn. red._
 
 </section>

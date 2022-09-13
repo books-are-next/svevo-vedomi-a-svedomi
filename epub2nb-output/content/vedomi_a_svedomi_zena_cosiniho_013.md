@@ -353,8 +353,8 @@ Možná že se ke zdraví vrátíme neslýchanou katastrofou, kterou jednou způ
 
 * * *
 
-_[8](./resources/undefined) Zpátky. _Pozn. red.__
+[8](./resources/undefined) Zpátky. _Pozn. red._
 
-_[9](./resources/undefined) Zcela, úplně. _Pozn. red.__
+[9](./resources/undefined) Zcela, úplně. _Pozn. red._
 
 </section>

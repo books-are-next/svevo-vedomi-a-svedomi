@@ -21,6 +21,6 @@ A už zase jsem daleko a daleko od představ, které přicházejí před spán
 
 * * *
 
-_[1](./resources/undefined) Od počátku (od vejce). _Pozn. red.__
+[1](./resources/undefined) Od počátku (od vejce). _Pozn. red._
 
 </section>

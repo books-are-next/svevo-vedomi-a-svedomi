@@ -1541,10 +1541,10 @@ Z paluby parníku mávala Ada šátkem. Pak se k nám obrátila zády. Zřejm�
 
 * * *
 
-_[5](./resources/undefined) V termínu. _Pozn. red.__
+[5](./resources/undefined) V termínu. _Pozn. red._
 
-_[6](./resources/undefined) Basedovowa nemoc, autoimunitní onemocnění štítné žláty. _Pozn. red.__
+[6](./resources/undefined) Basedovowa nemoc, autoimunitní onemocnění štítné žláty. _Pozn. red._
 
-_[7](./resources/undefined) Burzovní termín: pokles cen nebo kurzů. _Pozn. red.__
+[7](./resources/undefined) Burzovní termín: pokles cen nebo kurzů. _Pozn. red._
 
 </section>

@@ -1,0 +1,256 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Vědomí a svědomí Zena Cosiniho",
+  "author": "Italo Svevo",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "svevo-vedomi-a-svedomi-zena-cosiniho-07913dc",
+  "revision": "07913dc",
+  "readingOrder": [
+    "promo.html",
+    "vedomi_a_svedomi_zena_cosiniho_005.html",
+    "vedomi_a_svedomi_zena_cosiniho_006.html",
+    "vedomi_a_svedomi_zena_cosiniho_007.html",
+    "vedomi_a_svedomi_zena_cosiniho_008.html",
+    "vedomi_a_svedomi_zena_cosiniho_009.html",
+    "vedomi_a_svedomi_zena_cosiniho_010.html",
+    "vedomi_a_svedomi_zena_cosiniho_011.html",
+    "vedomi_a_svedomi_zena_cosiniho_012.html",
+    "vedomi_a_svedomi_zena_cosiniho_013.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Sep 13 2022 11:21:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1663068117378
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "vedomi_a_svedomi_zena_cosiniho_005.html",
+      "toc": []
+    },
+    {
+      "title": "Vědomí a svědomí Zena Cosiniho",
+      "file": "vedomi_a_svedomi_zena_cosiniho_005.html",
+      "words": 20,
+      "chars": 134,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "vedomi_a_svedomi_zena_cosiniho_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva",
+      "file": "vedomi_a_svedomi_zena_cosiniho_006.html",
+      "words": 185,
+      "chars": 1066,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 2,
+      "prev": "vedomi_a_svedomi_zena_cosiniho_005.html",
+      "next": "vedomi_a_svedomi_zena_cosiniho_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úvod",
+      "file": "vedomi_a_svedomi_zena_cosiniho_007.html",
+      "words": 566,
+      "chars": 3204,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 3,
+      "prev": "vedomi_a_svedomi_zena_cosiniho_006.html",
+      "next": "vedomi_a_svedomi_zena_cosiniho_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úvod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kouření",
+      "file": "vedomi_a_svedomi_zena_cosiniho_008.html",
+      "words": 7257,
+      "chars": 41955,
+      "ideas": 177,
+      "role": "chapter",
+      "order": 4,
+      "prev": "vedomi_a_svedomi_zena_cosiniho_007.html",
+      "next": "vedomi_a_svedomi_zena_cosiniho_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kouření",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otcova smrt",
+      "file": "vedomi_a_svedomi_zena_cosiniho_009.html",
+      "words": 9275,
+      "chars": 53088,
+      "ideas": 205,
+      "role": "chapter",
+      "order": 5,
+      "prev": "vedomi_a_svedomi_zena_cosiniho_008.html",
+      "next": "vedomi_a_svedomi_zena_cosiniho_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otcova smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Historie mého manželství",
+      "file": "vedomi_a_svedomi_zena_cosiniho_010.html",
+      "words": 29965,
+      "chars": 172364,
+      "ideas": 645,
+      "role": "chapter",
+      "order": 6,
+      "prev": "vedomi_a_svedomi_zena_cosiniho_009.html",
+      "next": "vedomi_a_svedomi_zena_cosiniho_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Historie mého manželství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Manželka a milenka",
+      "file": "vedomi_a_svedomi_zena_cosiniho_011.html",
+      "words": 36199,
+      "chars": 207852,
+      "ideas": 682,
+      "role": "chapter",
+      "order": 7,
+      "prev": "vedomi_a_svedomi_zena_cosiniho_010.html",
+      "next": "vedomi_a_svedomi_zena_cosiniho_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Manželka a milenka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Historie jedné obchodní společnosti",
+      "file": "vedomi_a_svedomi_zena_cosiniho_012.html",
+      "words": 40192,
+      "chars": 232127,
+      "ideas": 771,
+      "role": "chapter",
+      "order": 8,
+      "prev": "vedomi_a_svedomi_zena_cosiniho_011.html",
+      "next": "vedomi_a_svedomi_zena_cosiniho_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Historie jedné obchodní společnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Psychoanalýza",
+      "file": "vedomi_a_svedomi_zena_cosiniho_013.html",
+      "words": 11042,
+      "chars": 64187,
+      "ideas": 176,
+      "role": "chapter",
+      "order": 9,
+      "prev": "vedomi_a_svedomi_zena_cosiniho_012.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Psychoanalýza",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 154,
+      "chars": 979,
+      "ideas": 18,
+      "role": "about",
+      "order": null,
+      "prev": "vedomi_a_svedomi_zena_cosiniho_013.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 134864,
+      "chars": 777008,
+      "ideas": 2694
+    },
+    "chapters": {
+      "words": 134701,
+      "chars": 775977,
+      "ideas": 2672
+    }
+  }
+}
