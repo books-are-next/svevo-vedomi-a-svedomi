@@ -415,9 +415,9 @@ Když jsme přišli k Giovannimu, bylo mu už opravdu líp. Nemohl si jenom obo
 
 Pan Francesco Speier mi připadal daleko míň vzdělaný než jeho syn. Byl malý, zavalitý, asi tak šedesátník, nepříliš duchaplný a čilý, možná že taky proto, že měl v důsledku nemoci velice špatný sluch. Pletl do své italštiny tu a tam španělská slova:
 
-„_Cada vez_[3](./resources/undefined), když přijdu do Terstu…“
+„_Cada vez_[^3], když přijdu do Terstu…“
 
-Staří páni mluvili o obchodních záležitostech a Giovanni pozorně poslouchal, protože to bylo velice důležité pro Adin příští život. Roztržitě jsem poslouchal. Pochopil jsem, že starý Speier se rozhodl likvidovat své obchody v Argentině a svěřit všechny své _duros_[4](./resources/undefined) Guidovi, aby je vložil do firmy, kterou by založil v Terstu; sám by se pak vrátil do Buenos Aires a tam by žil s ženou a dcerou z malého statečku, který mu zbyl. Nevím, proč to všechno v mé přítomnosti vykládal, a dodnes jsem se to nedozvěděl.
+Staří páni mluvili o obchodních záležitostech a Giovanni pozorně poslouchal, protože to bylo velice důležité pro Adin příští život. Roztržitě jsem poslouchal. Pochopil jsem, že starý Speier se rozhodl likvidovat své obchody v Argentině a svěřit všechny své _duros_[^4] Guidovi, aby je vložil do firmy, kterou by založil v Terstu; sám by se pak vrátil do Buenos Aires a tam by žil s ženou a dcerou z malého statečku, který mu zbyl. Nevím, proč to všechno v mé přítomnosti vykládal, a dodnes jsem se to nedozvěděl.
 
 Měl jsem dojem, že v jistém okamžiku oba přestali mluvit a dívali se na mne, jako by ode mne očekávali radu, a tak jsem poznamenal, abych jim vyhověl:
 
@@ -1376,8 +1376,8 @@ V posteli jsem ani nezasténal, naopak jsem předstíral pravidelné oddechová
 
 * * *
 
-[3](./resources/undefined) Pokaždé. _Pozn. red._
+[^3]: Pokaždé. _Pozn. red._
 
-[4](./resources/undefined) Peníze („tvrďáky“). _Pozn. red._
+[^4]: Peníze („tvrďáky“). _Pozn. red._
 
 </section>

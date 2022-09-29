@@ -7,7 +7,7 @@ contentType: prose
 
 Nahlédnout do svého dětství? Dělí mě od něho přes pět desítek let, ale snad by to mé krátkozraké oči dokázaly, jen kdyby tomu světlu, co se z něho line, nestály v cestě všemožné překážky, hotové hory – moje roky a některé chvíle v nich.
 
-Doktor mi doporučil, abych se nedíval umíněně tak daleko. Pro něj je cenné i to, co se stalo nedávno, hlavně představy a sny z včerejší noci. Ale trochu pořádku by v tom přece jen mělo být, a tak abych mohl začít _ab ovo_[1](./resources/undefined), sotva jsem odešel od doktora, který tyto dny odjíždí na delší čas z Terstu, koupil jsem si a přečetl jsem si pojednání o psychoanalýze. Jedině abych mu ulehčil úlohu; není to žádná nesnadná četba, jen hrozně nudná.
+Doktor mi doporučil, abych se nedíval umíněně tak daleko. Pro něj je cenné i to, co se stalo nedávno, hlavně představy a sny z včerejší noci. Ale trochu pořádku by v tom přece jen mělo být, a tak abych mohl začít _ab ovo_[^1], sotva jsem odešel od doktora, který tyto dny odjíždí na delší čas z Terstu, koupil jsem si a přečetl jsem si pojednání o psychoanalýze. Jedině abych mu ulehčil úlohu; není to žádná nesnadná četba, jen hrozně nudná.
 
 Sedím po obědě pohodlně natažen v lenošce, v ruce tužku a kus papíru. Čelo mám úplně hladké, protože můj duch si nepřipouští nejmenší úsilí. Moje myšlenky jako by se ode mě oddělily. Vidím je. Stoupají, klesají… ale to je taky všechno. Abych jim připomněl, že jsou myšlenkami a že by se měly nějak projevit, popadnu tužku. A najednou se mé čelo zkrabatí, protože každé slovo se skládá z kupy písmen a neodbytná přítomnost znovu procitá a zastiňuje to, co bylo.
 
@@ -21,6 +21,6 @@ A už zase jsem daleko a daleko od představ, které přicházejí před spán
 
 * * *
 
-[1](./resources/undefined) Od počátku (od vejce). _Pozn. red._
+[^1]: Od počátku (od vejce). _Pozn. red._
 
 </section>

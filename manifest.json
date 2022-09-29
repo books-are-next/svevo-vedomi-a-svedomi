@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "svevo-vedomi-a-svedomi-zena-cosiniho-07913dc",
-  "revision": "07913dc",
+  "identifier": "svevo-vedomi-a-svedomi-zena-cosiniho-7d40efa",
+  "revision": "7d40efa",
   "readingOrder": [
     "promo.html",
     "vedomi_a_svedomi_zena_cosiniho_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Sep 13 2022 11:21:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1663068117378
+    "date": "Thu Sep 29 2022 21:39:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487590022
   },
   "documents": [
     {
@@ -84,7 +84,7 @@
       "title": "Úvod",
       "file": "vedomi_a_svedomi_zena_cosiniho_007.html",
       "words": 566,
-      "chars": 3204,
+      "chars": 3205,
       "ideas": 9,
       "role": "chapter",
       "order": 3,
@@ -144,7 +144,7 @@
       "title": "Historie mého manželství",
       "file": "vedomi_a_svedomi_zena_cosiniho_010.html",
       "words": 29965,
-      "chars": 172364,
+      "chars": 172365,
       "ideas": 645,
       "role": "chapter",
       "order": 6,
@@ -164,7 +164,7 @@
       "title": "Manželka a milenka",
       "file": "vedomi_a_svedomi_zena_cosiniho_011.html",
       "words": 36199,
-      "chars": 207852,
+      "chars": 207854,
       "ideas": 682,
       "role": "chapter",
       "order": 7,
@@ -184,7 +184,7 @@
       "title": "Historie jedné obchodní společnosti",
       "file": "vedomi_a_svedomi_zena_cosiniho_012.html",
       "words": 40192,
-      "chars": 232127,
+      "chars": 232130,
       "ideas": 771,
       "role": "chapter",
       "order": 8,
@@ -204,7 +204,7 @@
       "title": "Psychoanalýza",
       "file": "vedomi_a_svedomi_zena_cosiniho_013.html",
       "words": 11042,
-      "chars": 64187,
+      "chars": 64189,
       "ideas": 176,
       "role": "chapter",
       "order": 9,
@@ -244,12 +244,12 @@
   "totals": {
     "all": {
       "words": 134864,
-      "chars": 777008,
+      "chars": 777017,
       "ideas": 2694
     },
     "chapters": {
       "words": 134701,
-      "chars": 775977,
+      "chars": 775986,
       "ideas": 2672
     }
   }
