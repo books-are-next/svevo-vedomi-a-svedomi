@@ -247,7 +247,7 @@ Moji nervozitu ještě zvýšilo náhodné setkání s oddílem vojáků, kteř
 
 Chvíli jsem šlapal za nimi, protože jsem chtěl být co nejdřív doma. Potom mě začal obtěžovat mdlý pach divočiny, který se z nich linul, a tak jsem zpomalil krok. Můj neklid a spěch byl bláhový. Byla to bláhovost znepokojovat se jen proto, že jsem byl svědkem znepokojení nějakého venkovana. Už jsem v dálce viděl naši vilu a oddíl se ze silnice ztratil. Přidal jsem do kroku, abych se konečně dostal ke své bílé kávě.
 
-A právě tady začalo moje dobrodružství. Za jedním zákrutem cesty mě zničehonic zastavila hlídka. Voják zařval: „_Zurück!_“[8](./resources/undefined) a dokonce se postavil, jako by chtěl střílet. Chtěl jsem na něho promluvit německy, protože na mne taky tak řval, ale voják uměl německy jen to jediné slovo, které opakoval čím dál výhružněji.
+A právě tady začalo moje dobrodružství. Za jedním zákrutem cesty mě zničehonic zastavila hlídka. Voják zařval: „_Zurück!_“[^8] a dokonce se postavil, jako by chtěl střílet. Chtěl jsem na něho promluvit německy, protože na mne taky tak řval, ale voják uměl německy jen to jediné slovo, které opakoval čím dál výhružněji.
 
 Nezbývalo než jít _zurück_, a tak jsem se tedy dal na ústup a jen jsem se pořád ohlížel v obavách, aby mi to ten voják nechtěl vysvětlit názorně a nevypálil. Chvat, s nímž jsem ustupoval, mě neopustil, ani když jsem už byl z jeho dohledu.
 
@@ -335,7 +335,7 @@ Až do začátku loňského srpna jsem ten zmatený svět jen užasle a nečinn
 
 Když jsem je však vyslovil já, chtěl jsem naznačit, že kupuju jakékoli zboží, které mi bude nabídnuto. Jako všichni silní lidé měl jsem v hlavě jen jedinou představu a tou jsem žil a dosáhl štěstí. Olivi nebyl v Terstu, ale je jisté, že by nebyl podobné riziko dovolil a přenechal by je jiným. Pro mne to však nebylo riziko. Byl jsem si zdárným výsledkem naprosto jist. Především jsem začal podle starého zvyku válečných dob ukládat veškeré jmění do zlata, ale s kupováním a prodáváním zlata byly jisté nesnáze. Likvidním zlatem, kterým se snáz manipulovalo, bylo, abych tak řekl, zboží, a tak jsem je tedy skupoval. Čas od času jsem taky něco odprodal, ale tyto odprodeje byly vždy menší než nákupy. A protože jsem s nakupováním začal v pravý čas, byly odprodeje velice výhodné a zajišťovaly mi velké prostředky, které jsem potřeboval k dalším nákupům.
 
-S velkou hrdostí si vzpomínám, že můj první nákup byla na pohled hotová pitomost a jeho jediným smyslem bylo uskutečnit okamžitě můj nový nápad. Šlo o menší partii kadidla. Prodávající vyzdvihoval možnost použít kadidla jako náhražky pryskyřice, které se začalo nedostávat, ale já jako chemik věděl s naprostou jistotou, že kadidlo nikdy nemůže pryskyřici nahradit, protože se od ní liší _toto genere_[9](./resources/undefined). Jenže podle mé představy se svět dostane do takové bídy, že nakonec to kadidlo jako náhražku pryskyřice přijme. A tak jsem je koupil! Před několika dny jsem ho malou část prodal a dostal jsem za ni tolik, kolik jsem zaplatil za celou partii. V okamžiku, kdy jsem ty peníze shrábl, se mi prsa vzedmula pocitem síly a zdraví.
+S velkou hrdostí si vzpomínám, že můj první nákup byla na pohled hotová pitomost a jeho jediným smyslem bylo uskutečnit okamžitě můj nový nápad. Šlo o menší partii kadidla. Prodávající vyzdvihoval možnost použít kadidla jako náhražky pryskyřice, které se začalo nedostávat, ale já jako chemik věděl s naprostou jistotou, že kadidlo nikdy nemůže pryskyřici nahradit, protože se od ní liší _toto genere_[^9]. Jenže podle mé představy se svět dostane do takové bídy, že nakonec to kadidlo jako náhražku pryskyřice přijme. A tak jsem je koupil! Před několika dny jsem ho malou část prodal a dostal jsem za ni tolik, kolik jsem zaplatil za celou partii. V okamžiku, kdy jsem ty peníze shrábl, se mi prsa vzedmula pocitem síly a zdraví.
 
 Jakmile doktor dostane tuto poslední část mého rukopisu, měl by mi ho celý vrátit, abych ho mohl opravdu jasně přepracovat. Jak jsem mohl rozumět svému životu, dokud jsem neznal toto jeho poslední období? Možná že jsem žil celá ta léta, jen abych se připravoval na ně!
 
@@ -353,8 +353,8 @@ Možná že se ke zdraví vrátíme neslýchanou katastrofou, kterou jednou způ
 
 * * *
 
-[8](./resources/undefined) Zpátky. _Pozn. red._
+[^8]: Zpátky. _Pozn. red._
 
-[9](./resources/undefined) Zcela, úplně. _Pozn. red._
+[^9]: Zcela, úplně. _Pozn. red._
 
 </section>
