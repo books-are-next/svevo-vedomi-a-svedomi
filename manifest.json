@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "svevo-vedomi-a-svedomi-zena-cosiniho-8108cc2",
-  "revision": "8108cc2",
+  "identifier": "svevo-vedomi-a-svedomi-zena-cosiniho-dbabd23",
+  "revision": "dbabd23",
   "readingOrder": [
     "promo.html",
     "vedomi_a_svedomi_zena_cosiniho_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:42:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901752756
+    "date": "Tue Oct 04 2022 18:48:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664909307664
   },
   "documents": [
     {
