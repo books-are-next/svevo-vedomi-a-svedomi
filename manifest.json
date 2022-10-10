@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "svevo-vedomi-a-svedomi-zena-cosiniho-7605fab",
-  "revision": "7605fab",
+  "identifier": "svevo-vedomi-a-svedomi-zena-cosiniho-5a14bbc",
+  "revision": "5a14bbc",
   "readingOrder": [
     "promo.html",
     "vedomi_a_svedomi_zena_cosiniho_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:49:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150544136
+    "date": "Mon Oct 10 2022 15:41:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416488636
   },
   "documents": [
     {
@@ -224,7 +224,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 151,
-      "chars": 979,
+      "chars": 980,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -244,7 +244,7 @@
   "totals": {
     "all": {
       "words": 134861,
-      "chars": 777017,
+      "chars": 777018,
       "ideas": 2691
     },
     "chapters": {
