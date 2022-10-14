@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2802-1
 readingOrder:
   - promo.html
   - vedomi_a_svedomi_zena_cosiniho_005.html
