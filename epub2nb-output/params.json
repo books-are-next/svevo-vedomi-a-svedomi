@@ -9,7 +9,8 @@
       "modified": "2021-07-07T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2802-1"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "vedomi_a_svedomi_zena_cosiniho_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Předmluva"
+            "title": "Předmluva",
+            "children": []
           },
           {
             "filename": "vedomi_a_svedomi_zena_cosiniho_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Úvod"
+            "title": "Úvod",
+            "children": []
           },
           {
             "filename": "vedomi_a_svedomi_zena_cosiniho_008.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Kouření"
+            "title": "Kouření",
+            "children": []
           },
           {
             "filename": "vedomi_a_svedomi_zena_cosiniho_009.md",
@@ -148,8 +149,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Otcova smrt"
+            "title": "Otcova smrt",
+            "children": []
           },
           {
             "filename": "vedomi_a_svedomi_zena_cosiniho_010.md",
@@ -161,8 +162,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Historie mého manželství"
+            "title": "Historie mého manželství",
+            "children": []
           },
           {
             "filename": "vedomi_a_svedomi_zena_cosiniho_011.md",
@@ -174,8 +175,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Manželka a milenka"
+            "title": "Manželka a milenka",
+            "children": []
           },
           {
             "filename": "vedomi_a_svedomi_zena_cosiniho_012.md",
@@ -187,8 +188,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Historie jedné obchodní společnosti"
+            "title": "Historie jedné obchodní společnosti",
+            "children": []
           },
           {
             "filename": "vedomi_a_svedomi_zena_cosiniho_013.md",
@@ -200,8 +201,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Psychoanalýza"
+            "title": "Psychoanalýza",
+            "children": []
           },
           {
             "filename": "vedomi_a_svedomi_zena_cosiniho_014.md",
@@ -398,6 +399,6 @@
       "user": "books-are-next",
       "repo": "svevo-vedomi-a-svedomi"
     },
-    "generatedAt": 1665415533170
+    "generatedAt": 1665765072608
   }
 }
